@@ -386,11 +386,11 @@ label {
    display: inline-block;
    max-width: 100%;
    margin-bottom: 5px;
-	color:#6f2ee9;
+	color:#ffffff;
    font-weight: 700
 }
 
-input[type=search] {"
+input[type=search] {
    box-sizing: border-box
 }
 
