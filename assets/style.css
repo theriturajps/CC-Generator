@@ -9,15 +9,19 @@ body {
 }
 .navigations {
     display: flex;
-    background-color:#6f2ee9;
+    background-color: #6f2ee9;
     align-items: center;
     justify-content: center;
-    height: 100px;
-    margin-bottom: 30px;
-  }
-  .logo img {
+    height: 50px;
+    margin-bottom: 16px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.logo img {
     max-width: 200px;
-  }
+}
+
 figcaption,
 footer,
 main,
@@ -812,7 +816,7 @@ font-family: sans-serif
  
 a {
 text-decoration: none;
-color:#6f2ee9;
+color:#94e40a;
 }
  
 textarea {
